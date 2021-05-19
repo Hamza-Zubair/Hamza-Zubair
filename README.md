@@ -4,6 +4,6 @@
 Research interests in mobility studies
 learning 📊 data science
 
-more about me @ 🔗👇
+### more about me @ 🔗👇
 
-🌐 https://spatialanalyst.weebly.com/
+### 🌐 https://spatialanalyst.weebly.com/
