@@ -1,5 +1,9 @@
 ## Hi I am Hamza 👋
-### Masters in Geoinformatics 
-### Alma Mater of University of Tartu
+### 🎓 Masters in Geoinformatics 
+
 Research interests in mobility studies
-learning data science for public transportation systems and mobility analysis
+learning 📊 data science
+
+more about me @ 🔗👇
+
+🌐 https://spatialanalyst.weebly.com/
