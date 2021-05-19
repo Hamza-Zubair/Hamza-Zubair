@@ -2,6 +2,7 @@
 ### 🎓 Masters in Geoinformatics 
 
   Research interests in mobility studies
+  
   learning 📊 data science
 
 ### more about me @ 🔗👇
