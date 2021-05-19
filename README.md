@@ -1,5 +1,6 @@
 ## Hi I am Hamza 👋
 ### 🎓 Masters in Geoinformatics 
+### 🏛️ University of Tartu
 
   Research interests in mobility studies
   
